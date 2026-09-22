@@ -19,7 +19,7 @@
 
 1. Склонировать репозиторий и создать виртуальное окружение:
 ```bash
-git clone [https://github.com/hadsize666/lexideck.git](https://github.com/ВАШ_НИК/lexideck.git)
+git clone [https://github.com/hadsize666/lexideck.git]
 cd lexideck
 python3 -m venv .venv
 source .venv/bin/activate
