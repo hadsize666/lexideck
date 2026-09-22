@@ -1,0 +1,2 @@
+"""LexiDeck application package."""
+

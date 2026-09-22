@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+outputs/
+*.apkg
+.DS_Store
+work/
+__MACOSX/
